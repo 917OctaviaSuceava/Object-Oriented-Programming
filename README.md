@@ -13,6 +13,6 @@ So many movies, so little time. To make sure you do not miss any good movies, yo
 - See the watch list.
 
 ### Rest of the assignments:
-- ASSIGNMENT 2 [here](https://github.com/917OctaviaSuceava/Object-Oriented-Programming/blob/main/A67)
+- [ASSIGNMENTS 2 & 3](https://github.com/917OctaviaSuceava/Object-Oriented-Programming/blob/main/A6789)
 
 
