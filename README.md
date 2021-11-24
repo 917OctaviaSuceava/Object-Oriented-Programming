@@ -1,7 +1,3 @@
-# Object-Oriented-Programming
-
-- Assignment 1 [here](https://github.com/917OctaviaSuceava/Object-Oriented-Programming/blob/main/A45) 
-
 ## Local Movie Database
 
 So many movies, so little time. To make sure you do not miss any good movies, you absolutely need a software application to help you manage your films and create watch lists. The application can be used in two modes: administrator and user. When the application is started, it will offer the option to choose the mode.
@@ -16,6 +12,7 @@ So many movies, so little time. To make sure you do not miss any good movies, yo
 - Delete a movie from the watch list, after the user watched the movie. When deleting a movie from the watch list, the user can also rate the movie (with a like), and in this case, the number of likes the movie has in the repository will be increased.
 - See the watch list.
 
--------- ASSIGNMENT 2 
+### Rest of the assignments:
+- ASSIGNMENT 2 [here](https://github.com/917OctaviaSuceava/Object-Oriented-Programming/blob/main/A67)
 
 
